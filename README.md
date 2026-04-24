@@ -19,7 +19,7 @@
 
 * JavaScript
 * Python
-* C# (basic)
+* C# 
 
 ### ⚙️ Tools
 
