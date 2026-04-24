@@ -8,10 +8,8 @@
 
 * 🎓 Technical degree in IT (completed)
 * 🎓 B.Sc. student in Systems Analysis and Development
-* 💼 Working in  at Linx by TOTVS
-* 🌎 Interested in international opportunities (USA / Portugal)
-* 🧠 Always learning new technologies
-* 🎮 Streaming and creating gaming content
+* 💼 Support Analyst at Linx by TOTVS
+* 🌎 Interested in music, art, and culture
 
 ---
 
