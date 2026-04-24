@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Silveira!
 
-<!--
-**lucasslvr/lucasslvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer | 🎮 Gamer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Technical degree in IT (completed)
+* 🎓 B.Sc. student in Systems Analysis and Development
+* 💼 Working in  at Linx by TOTVS
+* 🌎 Interested in international opportunities (USA / Portugal)
+* 🧠 Always learning new technologies
+* 🎮 Streaming and creating gaming content
+
+---
+
+## Tech Stack & Tools
+
+### 💻 Languages
+
+* JavaScript
+* Python
+* C# (basic)
+
+### ⚙️ Tools
+
+* Node.js
+* SQLite
+* Git & GitHub
+* Photoshop (i love designs)
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: www.linkedin.com/in/lucasslvr
+* 📸 Instagram: https://www.instagram.com/lucasslvr__
+
