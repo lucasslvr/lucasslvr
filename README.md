@@ -26,7 +26,7 @@
 * Node.js
 * SQLite
 * Git & GitHub
-* Photoshop (i love designs)
+* Photoshop (i love design)
 
 ---
 
